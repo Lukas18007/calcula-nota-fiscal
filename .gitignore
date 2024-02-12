@@ -1,0 +1,4 @@
+*.csv
+venv
+NFS
+__pycache__
